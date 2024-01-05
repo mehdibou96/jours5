@@ -12,10 +12,11 @@
 .container{
     height: 642px;
     width: 100%;
-    background-color:#24053E;
-    background-image: url(/assets/images/bg-pattern-1.svg),url(/assets/images/bg-pattern-2.svg);
+   
+    background-image: url(/assets/images/bg-pattern-1.svg),url(/assets/images/bg-pattern-2.svg) ,url(/assets/images/Rectangle.svg);
     background-repeat: no-repeat;
-    background-position:-7% 45%, 103% 60% ;
+    background-position:-7% 45%, 103% 60%, 100% 110%  ;
+    
 }
 
 header{
